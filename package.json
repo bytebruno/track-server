@@ -1,7 +1,7 @@
 {
   "name": "track-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJs and Express backend example that is used on Track react-native app (stephen udemy course)",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
